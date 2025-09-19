@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👤 Biographies"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Ye Liu was born in China. She received her MBBS in Public Health from Guangzhou Medical University (2015–2020) and an MSc in Public Health from the London School of Hygiene & Tropical Medicine (2020–2021). She is currently working as a Research Assistant at the University of North Carolina at Chapel Hill – Project China.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Her research interests include pharmacoepidemiology, real-world evidence (RWE), digital health interventions, AI/machine learning for drug safety, antimicrobial resistance, and implementation science. She has led cluster-randomized trials of pay-it-forward STI testing, designed digital partner-notification and self-sampling interventions, and organized gamified co-creation workshops for STI management.
+
+She has contributed to peer-reviewed publications in PLOS ONE, Lancet Global Health, JAMA Network Open, and Frontiers in Oncology, covering randomized controlled trials, systematic reviews, and implementation science.
+
+ (Click here to view my CV)(https://github.com/academicpages/academicpages.github.io)
 
 A data-driven personal website
 ======
