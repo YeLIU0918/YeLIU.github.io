@@ -9,7 +9,7 @@ redirect_from:
 
 Ye Liu was born in China. She received her MBBS in Public Health from Guangzhou Medical University (2015–2020) and an MSc in Public Health from the London School of Hygiene & Tropical Medicine (2020–2021). She is currently working as a Research Assistant at the University of North Carolina at Chapel Hill – Project China.
 
-Her research interests include pharmacoepidemiology, real-world evidence (RWE), digital health interventions, AI/machine learning for drug safety, antimicrobial resistance, and implementation science. She has led cluster-randomized trials of pay-it-forward STI testing, designed digital partner-notification and self-sampling interventions, and organized gamified co-creation workshops for STI management.
+Her research interests include **pharmacoepidemiology, real-world evidence (RWE), digital health interventions, AI/machine learning** for drug safety, antimicrobial resistance, and implementation science. She has led cluster-randomized trials of pay-it-forward STI testing, designed digital partner-notification and self-sampling interventions, and organized gamified co-creation workshops for STI management.
 
 She has contributed to peer-reviewed publications in PLOS ONE, Lancet Global Health, JAMA Network Open, and Frontiers in Oncology, covering randomized controlled trials, systematic reviews, and implementation science.
 
@@ -17,18 +17,19 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 
 📖 Educations
 ======
-1. MSc Public Health, London School of Hygiene & Tropical Medicine, UK (2020–2021)  
-2. Bachelor of Medicine, Public Health, Guangzhou Medical University, China (2015–2020)
+1. MSc Public Health, **London School of Hygiene & Tropical Medicine**, UK (2020–2021)  
+2. **Bachelor of Medicine**, Public Health, Guangzhou Medical University, China (2015–2020)
 
 
-Getting started
+👩🏻‍🔬 Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Pay-it-Forward STI Testing RCT (UNC–Project China) (Aug 2023–Present)
+------
+1. Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
+2. Managed participant recruitment, follow-up, and site coordination.
+3. Conducted advanced statistical analyses (R, Stata, SPSS).
+4. Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
+across intervention vs. control cities.
 
 Site-wide configuration
 ------
