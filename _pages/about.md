@@ -12,7 +12,7 @@ Ye Liu was born in China. She received her MBBS in Public Health from Guangzhou 
 Her research interests include pharmacoepidemiology, real-world evidence (RWE), digital health interventions, AI/machine learning for drug safety, antimicrobial resistance, and implementation science. She has led cluster-randomized trials of pay-it-forward STI testing, designed digital partner-notification and self-sampling interventions, and organized gamified co-creation workshops for STI management.
 
 She has contributed to peer-reviewed publications in PLOS ONE, Lancet Global Health, JAMA Network Open, and Frontiers in Oncology, covering randomized controlled trials, systematic reviews, and implementation science.
-
+You can find my CV here: [XX's Curriculum Vitae](../assets/CV-YeLIU.pdf).
 (Click here to view my CV) (https://yeliu0918.github.io/YeLIU.github.io/assets/CV-YeLIU.pdf).
 
 A data-driven personal website
