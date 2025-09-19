@@ -24,12 +24,25 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 👩🏻‍🔬 Research
 ======
 **Pay-it-Forward STI Testing RCT (UNC–Project China) (Aug 2023–Present)**
-{: .no-bullet}
--  Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
+- Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
 - Managed participant recruitment, follow-up, and site coordination.
 - Conducted advanced statistical analyses (R, Stata, SPSS).
 - Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
 across intervention vs. control cities.
+
+**Digital Partner Notification & Self-sampling (WeChat Mini-app) (2023–Present)**
+- Designed and implemented a digital intervention enabling STI patients to notify partners for self-sampling. 
+- Developed simplified referral pathways (patient → partner → self-sampling → result → referral). 
+- Produced SOPs and visual templates for clinical integration.
+
+**Gamified Co-creation for Digital STI Management (2023–Present)**
+- Organized participatory workshops with doctors, patients, and CBOs to co-create gamified digital health interventions. 
+- Designed guiding scripts, visual templates, and evaluation metrics. 
+- Piloted gamification elements to improve user engagement and ownership.
+
+**Mutual Aid Interventions in HIV/STI – Systematic Review (Aug 2023–July 2025)**
+- Conducted database searches, critical appraisal, and data synthesis. 
+- Produced evidence summaries and manuscripts. 
 
 Site-wide configuration
 ------
