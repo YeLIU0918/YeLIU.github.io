@@ -24,10 +24,10 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 👩🏻‍🔬 Research
 ======
 **Pay-it-Forward STI Testing RCT (UNC–Project China) (Aug 2023–Present)**
- -Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
- -Managed participant recruitment, follow-up, and site coordination.
- -Conducted advanced statistical analyses (R, Stata, SPSS).
- -Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
+ *Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
+ *Managed participant recruitment, follow-up, and site coordination.
+ *Conducted advanced statistical analyses (R, Stata, SPSS).
+ *Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
 across intervention vs. control cities.
 
 Site-wide configuration
