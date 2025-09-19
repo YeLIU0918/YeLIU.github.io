@@ -13,7 +13,7 @@ Her research interests include pharmacoepidemiology, real-world evidence (RWE), 
 
 She has contributed to peer-reviewed publications in PLOS ONE, Lancet Global Health, JAMA Network Open, and Frontiers in Oncology, covering randomized controlled trials, systematic reviews, and implementation science.
 
- (Click here to view my CV)(https://github.com/academicpages/academicpages.github.io)
+ (Click here to view my CV)(https://YeLIU0918.YeLIU.github.io/assets/CV-YeLIU.pdf)
 
 A data-driven personal website
 ======
