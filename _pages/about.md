@@ -17,10 +17,8 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 
 📖 Educations
 ======
-{: .cv-list}
 - One MSc Public Health, **London School of Hygiene & Tropical Medicine**, UK (2020–2021)  
 - Two **Bachelor of Medicine**, Public Health, Guangzhou Medical University, China (2015–2020)
-
 
 👩🏻‍🔬 Research
 ======
@@ -30,17 +28,14 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 - Conducted advanced statistical analyses (R, Stata, SPSS).
 - Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
 across intervention vs. control cities.
-
 **Digital Partner Notification & Self-sampling (WeChat Mini-app) (2023–Present)**
 - Designed and implemented a digital intervention enabling STI patients to notify partners for self-sampling. 
 - Developed simplified referral pathways (patient → partner → self-sampling → result → referral). 
 - Produced SOPs and visual templates for clinical integration.
-
 **Gamified Co-creation for Digital STI Management (2023–Present)**
 - Organized participatory workshops with doctors, patients, and CBOs to co-create gamified digital health interventions. 
 - Designed guiding scripts, visual templates, and evaluation metrics. 
 - Piloted gamification elements to improve user engagement and ownership.
-
 **Mutual Aid Interventions in HIV/STI – Systematic Review (Aug 2023–July 2025)**
 - Conducted database searches, critical appraisal, and data synthesis. 
 - Produced evidence summaries and manuscripts. 
@@ -59,8 +54,24 @@ from colorectal cancer. Frontiers in Oncology. (Responsible for data analysis, p
 - **Liu Y (3rd author)**, et al.Community engagement and implementation science: A hermeneutic review for implementation
 scientists(submission)
 
+💼 WORK & INTERNSHIPS
+======
+- **Research Assistant, University of North Carolina at Chapel Hill – Project China (Aug 2023–Present) **
+- Intern, Guangdong Women and Children Hospital, China (May 2020): Participated in designing the perinatal mental health management framework.
+- Intern, Guangdong Hospital for Occupational Disease Prevention and Treatment, China (Aug 2019–Jan 2020): Assisted in occupational risk assessment research and workplace health monitoring. Developed health education guidelines and content. 
+- Intern, Guangdong Hospital for Occupational Disease Prevention and Treatment, China (Jun 2019–Aug 2019):Conducted surveillance of occupational health hazards at Daya Bay Nuclear Power Plant. Created public health education videos and articles on occupational health.
 
+🔧 Skill
+======
+- **Statistical & Analytical: **R, Stata, SPSS, Mplus** (Regression analysis, Survival analysis, GEE, Mixed-methods research, Systematic reviews, meta-analysis)
+-  Qualitative data analysis(Focus group, Interview,Co-creation)
+-  Data visualization
+-  Clinical experience
+-  Implementation science
 
+🗣️ Language
+======
+- Fluent English, Native Mandarin, and Cantonese
 
 
 Site-wide configuration
