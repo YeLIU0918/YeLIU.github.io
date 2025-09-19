@@ -17,21 +17,19 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 
 📖 Educations
 ======
-1. MSc Public Health, **London School of Hygiene & Tropical Medicine**, UK (2020–2021)  
-2. **Bachelor of Medicine**, Public Health, Guangzhou Medical University, China (2015–2020)
+{: .no-bullet}
+- One MSc Public Health, **London School of Hygiene & Tropical Medicine**, UK (2020–2021)  
+- Two **Bachelor of Medicine**, Public Health, Guangzhou Medical University, China (2015–2020)
 
 
 👩🏻‍🔬 Research
 ======
 **Pay-it-Forward STI Testing RCT (UNC–Project China) (Aug 2023–Present)**
 {: .no-bullet}
-- One
-- Two
-- Three
 - One Coordinated a cluster randomized controlled trial (RCT) on pay-it-forward STI testing among MSM in Guangdong, China.
 - Two Managed participant recruitment, follow-up, and site coordination.
 - Three Conducted advanced statistical analyses (R, Stata, SPSS).
- *Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
+- Four Led an AMR sub-study to evaluate Neisseria gonorrhoeae antimicrobial resistance trends using MIC-based indicators
 across intervention vs. control cities.
 
 Site-wide configuration
