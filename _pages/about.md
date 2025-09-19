@@ -17,6 +17,7 @@ You can find my CV here: [Ye LIU's Curriculum Vitae](https://yeliu0918.github.io
 
 📖 Educations
 ======
+{: .cv-list}
 - One MSc Public Health, **London School of Hygiene & Tropical Medicine**, UK (2020–2021)  
 - Two **Bachelor of Medicine**, Public Health, Guangzhou Medical University, China (2015–2020)
 
