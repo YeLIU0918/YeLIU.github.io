@@ -44,6 +44,24 @@ across intervention vs. control cities.
 - Conducted database searches, critical appraisal, and data synthesis. 
 - Produced evidence summaries and manuscripts. 
 
+📝 Publications
+======
+- **Liu Y(1rd author)**, et al. (Under review). Financing STI Testing among Men in China: A Mixed-Methods Study of Pay-it- Forward Monetary Donations. PLOS ONE. (First author; responsible for all quantitative analysis, partial qualitative analysis, and manuscript drafting) 
+- Tucker JD, et al., **Liu Y (3rd author)**. (Under review). Pay-it-Forward Gonorrhea and Chlamydia Testing: A
+Transformative Mixed-Methods Randomized Controlled Trial Among Men in China. **Lancet Global Health**. (Performed comprehensive data analysis, data cleaning, and management) 
+- **Liu Y**, et al. Gift-based interventions in HIV/STI research: A systematic review and qualitative evidence synthesis. JAMA
+Network Open. (**Second author**; major contribution to systematic review and qualitative synthesis)
+- Huon C, Marley G, Tan RKJ, Wu D, Sheng Q, **Liu Y**. (2024). Sociodemographic characteristics, community engagement, and stigma among MSM attending sexual health clinics in China: A cross-sectional survey. PLOS ONE. (Published;
+responsible for data collection, analysis, and data cleaning) 
+- Han Y, Yan X, Zhi W, **Liu Y**, Xu F, Yan D. (2022). Long-term outcomes following microwave ablation of lung metastases
+from colorectal cancer. Frontiers in Oncology. (Responsible for data analysis, primarily survival analysis) 
+- **Liu Y (3rd author)**, et al.Community engagement and implementation science: A hermeneutic review for implementation
+scientists(submission)
+
+
+
+
+
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
