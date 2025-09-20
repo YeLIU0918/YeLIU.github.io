@@ -23,7 +23,7 @@ repository               : "yeliu0918/yeliu0918.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pro.png"
   name             : "Ye LIU"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
