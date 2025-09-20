@@ -56,7 +56,7 @@ scientists(submission)
 
 💼 Work & Internship
 ======
-- **Research Assistant, University of North Carolina at Chapel Hill – Project China (Aug 2023–Present) **
+- **Research Assistant, University of North Carolina at Chapel Hill – Project China (Aug 2023–Present)**
 - Intern, Guangdong Women and Children Hospital, China (May 2020): Participated in designing the perinatal mental health management framework.
 - Intern, Guangdong Hospital for Occupational Disease Prevention and Treatment, China (Aug 2019–Jan 2020): Assisted in occupational risk assessment research and workplace health monitoring. Developed health education guidelines and content. 
 - Intern, Guangdong Hospital for Occupational Disease Prevention and Treatment, China (Jun 2019–Aug 2019):Conducted surveillance of occupational health hazards at Daya Bay Nuclear Power Plant. Created public health education videos and articles on occupational health.
