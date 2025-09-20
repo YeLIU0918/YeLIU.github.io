@@ -63,7 +63,7 @@ scientists(submission)
 
 🔧 Skill
 ======
-- **Statistical & Analytical: **R, Stata, SPSS, Mplus** (Regression analysis, Survival analysis, GEE, Mixed-methods research, Systematic reviews, meta-analysis)
+- Statistical & Analytical: **R, Stata, SPSS, Mplus** (Regression analysis, Survival analysis, GEE, Mixed-methods research, Systematic reviews, meta-analysis)
 -  Qualitative data analysis(Focus group, Interview,Co-creation)
 -  Data visualization
 -  Clinical experience
